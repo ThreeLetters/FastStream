@@ -1,0 +1,15 @@
+{
+    "name": "faststreamserver",
+    "version": "1.0.0",
+    "description": "Fast Stream server",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "dependencies": {
+        "simplesockets": "latest",
+        "snappyjs": "latest"
+    },
+    "author": "Andrews54757",
+    "license": "ISC"
+}
