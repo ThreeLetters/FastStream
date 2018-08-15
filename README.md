@@ -1,7 +1,7 @@
 # FastStream - Not finished yet
 A revamped version of the original FastStream prototype - Never have videos buffer again.
 
-![screen shot 2018-04-19 at 3 03 49 pm](https://user-images.githubusercontent.com/13282284/39012705-2e885a74-43e3-11e8-87ec-38e1da468426.png)
+<img width="23" alt="screen shot 2018-08-14 at 8 22 57 pm" src="https://user-images.githubusercontent.com/13282284/44125321-e010b57a-9fff-11e8-8004-5ebea5a3cfe7.png">
 
 
 ## What is the prototype?
